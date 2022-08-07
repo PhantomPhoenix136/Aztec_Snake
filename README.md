@@ -1,1 +1,1 @@
-# Azyec_Snake
+# Aztec_Snake
